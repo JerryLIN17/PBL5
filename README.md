@@ -65,7 +65,7 @@ This project is a Unity-based Virtual Reality application designed to help users
 To run the project:
 
 1. Open the project folder in Unity.
-2. Load the **`LoadScene.unity`** scene inside `Scenes/`.
+2. Load the **`LoaderScene.unity`** scene inside `Scenes/`.
 3. Build the project for Oculus support.
 4. Deploy to Meta Quest 3s via USB3.
 
