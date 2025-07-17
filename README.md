@@ -75,7 +75,6 @@ To run the project:
 ## Author
 
 - **Name**: LIN Jie  
-- **Student ID**: 26002304804  
 - **Course**: PBL5 - Virtual Reality Learning  
 - **University**: Ritsumeikan University
 - **Laboratory**: Visual Information Engineering Laboratory
